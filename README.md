@@ -2,6 +2,8 @@
 
 A Flutter app to help users learn and practice International Morse Code through interactive lessons, flashcards, audio playback, and quizzes.
 
+[![Flutter](https://img.shields.io/badge/Flutter-3.x-blue)](https://docs.flutter.dev) [![Dart](https://img.shields.io/badge/Dart-3.x-blue)](https://dart.dev) [![License: MIT](https://img.shields.io/badge/License-MIT-green.svg)](LICENSE)
+
 ## Features
 - **Interactive lessons**: Learn dots and dashes with a progressive curriculum
 - **Flashcards**: Practice letter-to-code and code-to-letter recognition
@@ -53,7 +55,12 @@ assets/
 ```
 
 ## Screenshots
-Add screenshots to `assets/images/` and reference them here.
+Place screenshots in `assets/images/` and reference them here.
+
+Example:
+
+![Welcome Screen](assets/images/welcome.png)
+![Tree Screen](assets/images/tree.png)
 
 ## Roadmap
 - **Practice modes**: word-level, prosigns, and Q-codes
@@ -64,4 +71,4 @@ Add screenshots to `assets/images/` and reference them here.
 Pull requests are welcome. For major changes, please open an issue first to discuss what you would like to change.
 
 ## License
-Add a license of your choice (e.g., MIT) to `LICENSE`.
+This project is licensed under the MIT License — see [`LICENSE`](LICENSE).
